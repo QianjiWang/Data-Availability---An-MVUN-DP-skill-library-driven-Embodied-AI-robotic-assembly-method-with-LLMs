@@ -5,9 +5,9 @@
 ## Data Availability
 The code can be accessed via GitHub at:
 
-https://github.com/1538933805/ERAS-SkillTraining
+https://github.com/QianjiWang/ERAS-SkillTraining
 
-https://github.com/1538933805/ERAS
+https://github.com/QianjiWang/ERAS
 
 The experimental datasets can be accessed via Kaggle at:
 
